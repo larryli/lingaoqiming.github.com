@@ -9,6 +9,8 @@ author:
 
 markdown: rdiscount
 permalink:  none
+production_url: https://larryli.github.io/lingaoqiming.github.com/
+img_url: https://larryli.github.io/lingaoqiming.github.com/images
 
 collections:
   characters:
