@@ -3,14 +3,12 @@
 top-title: 临高启明
 
 author:
-  name: lingaoqiming
-  email: lingaoqiming2104@sina.com
-  github: lingaoqiming
+  name: larryli
+  email: larryli@qq.com
+  github: larryli
 
 markdown: rdiscount
 permalink:  none
-production_url: http://lingaoqiming.github.io/
-img_url: http://lingaoqiming.github.io//images
 
 collections:
   characters:
